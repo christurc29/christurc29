@@ -26,7 +26,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently working at the **100devs** agency
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
