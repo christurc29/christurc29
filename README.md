@@ -176,22 +176,6 @@
     </a>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-  <div align = "center">
-    <a href="https://github.com/christurc29/github-readme-stats"><img alt="Chris Turcios' Github Stats" src="https://github-readme-stats.vercel.app/api?username=christurc29&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/christurc29/github-readme-stats"><img alt="Chris Turcios' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christurc29&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </div>
-  <br/>
-  <p align="center"><b>Note: </b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
-
-<br/>
-<br/>
-
-<a href="https://github.com/christurc29/github-readme-activity-graph"><img alt="Chris Turcios' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=christurc29&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 <br/>
 
 <!-- ## Connect with me:
