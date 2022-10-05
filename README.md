@@ -25,7 +25,6 @@
 
 ## 🙋‍♂️ About Me
 
-
 - 🌱 I’m currently working at the **100devs** agency
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
@@ -34,7 +33,7 @@
 
 - 📫 How to reach me **chris.turcios@protonmail.com**
 
-- ⚡ Fun fact **I am a volunteer firefighter**  🚒
+- ⚡ Fun fact **I am a volunteer firefighter** 🚒
 
 ## 🚀 Languages and Tools:
 
@@ -64,8 +63,7 @@
             <img src="images/portfolio.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
-        <p align="center">
-          
+        <p align="center">        
   <a href="https://github.com/christurc29/Portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=106BD7&style=plastic&logo=github&logo-color=white"/>
   </a>  
@@ -83,7 +81,6 @@
         </a>
         <br />
         <p align="center">
-          
   <a href="https://github.com/christurc29/Drink-Selector" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=106BD7&style=plastic&logo=github&logo-color=white"/>
   </a>
@@ -120,8 +117,7 @@
           <img src="images/interi.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
-        <p align="center">
-          
+            <p align="center">
   <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=106BD7&style=plastic&logo=github&logo-color=white"/>
   </a>
@@ -132,12 +128,47 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> - Website made for Interi interior design agency. Fully responsive.</p>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">FlickList</h3>
+      <br />
+        <a target="_blank" href="https://github.com/christurc29/FlickList">
+          <img src="images/FlickList.gif" width="100%" alt="FlickList"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/christurc29/FlickList" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=106BD7&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://flicklist-s6sb.onrender.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=106BD7&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Javascript, EJS, MongoDB, Express, NodeJS, API, Passport</strong> - Create your very own list of recommended movies to watch! Connect to Movies database to pull info about movies you've entered.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">TreatMeals</h3>
+        <br />
+        <a target="_blank" href="https://github.com/christurc29/TreatMeals">
+          <img src="images/TreatMeals.gif" width="100%" alt="TreatMeals"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/christurc29/TreatMeals" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=106BD7&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=106BD7&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Javascript, EJS, MongoDB, Express, NodeJS, API, Passport, Chartjs, Bootstrap</strong> - Fullstack CRUD app that allows users to find macronutrient information for the foods at their favorite restaurants.</p>
+    </td>
+  </tr>
+
 </table>
 
-
 </br>
-
-
 
 <p align="center">
     <a href="https://github.com/christurc29/github-readme-streak-stats">
@@ -154,7 +185,6 @@
   </div>
   <br/>
   <p align="center"><b>Note: </b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
-
 
 <br/>
 <br/>
@@ -179,4 +209,3 @@
     <img src="https://komarev.com/ghpvc/?username=christurc29">
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/christurc29?label=Followers&style=social" alt="GitHub Badge"></a> -->
-
