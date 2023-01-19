@@ -141,7 +141,7 @@
   <a href="https://github.com/christurc29/FlickList" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=106BD7&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://flicklist-s6sb.onrender.com" target="_blank">
+  <a href="https://flicklist.cyclic.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=106BD7&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -158,7 +158,7 @@
   <a href="https://github.com/christurc29/TreatMeals" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=106BD7&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://treatmeals.cyclic.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=106BD7&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
