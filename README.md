@@ -151,7 +151,7 @@
       <h3 align="center">TreatMeals</h3>
         <br />
         <a target="_blank" href="https://github.com/christurc29/TreatMeals">
-          <img src="images/TreatMeals.gif" width="100%" alt="TreatMeals"/>
+          <img src="https://raw.githubusercontent.com/christurc29/TreatMeals/main/public/images/TreatmealsGIF.gif?_sm_au_=isVnsV6MH4SpVrkCQ0WpHK6H8sjL6" width="100%" alt="TreatMeals"/>
         </a>
         <br />
         <p align="center">
